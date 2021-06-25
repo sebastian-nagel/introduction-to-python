@@ -53,6 +53,8 @@ Notebook: [working with structured data – the “Tree Cadastre of the City of 
 - tweets, user timelines, followers, trends
 - text statistics, language, sentiment
 
+Notebook: [the Twitter API](2_twitter_api.ipynb)
+
 
 # Day Two
 

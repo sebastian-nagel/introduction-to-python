@@ -1,0 +1,5 @@
+jq
+matplotlib
+pandas
+requests
+twarc
