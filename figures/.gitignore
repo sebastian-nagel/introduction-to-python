@@ -1,0 +1,6 @@
+# Empty directory to hold plots and figures
+# - ignore all created files in this directory
+*
+# - except this file
+#   (git will create this folder to put the file into)
+!.gitignore
