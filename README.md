@@ -49,7 +49,7 @@ Notebook: [working with structured data – the “Tree Cadastre of the City of 
 
 - what is an API?
 - get access to the API
-- use a client: DocNow/twarc 
+- use a client: DocNow/twarc
 - tweets, user timelines, followers, trends
 - text statistics, language, sentiment
 
