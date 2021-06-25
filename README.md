@@ -53,7 +53,7 @@ Notebook: [working with structured data – the “Tree Cadastre of the City of 
 - tweets, user timelines, followers, trends
 - text statistics, language, sentiment
 
-Notebook: [the Twitter API](2_twitter_api.ipynb)
+Notebook: [the Twitter API](3_twitter_api.ipynb)
 
 
 # Day Two
@@ -71,3 +71,11 @@ Notebook: [the Twitter API](2_twitter_api.ipynb)
 - pre-processing and tokenization (splitting text into words)
 - n-grams, vectorization and word embeddings
 - train and evaluate a text classifier
+
+
+
+
+# Licenses
+
+- [Apache 2.0](./LICENSE) for the code
+- for data shared in this repository, see the [listing of data sources and licenses](data/README.md)
