@@ -1,6 +1,7 @@
 
 inputs = 1_warmup_and_setup.ipynb \
-	2_structured_data_tree_cadastre_konstanz.ipynb
+	2_structured_data_tree_cadastre_konstanz.ipynb \
+	3_twitter_api.ipynb
 
 python-workshop-2021-handout.pdf: $(input)
 	$(foreach inp,$(inputs),jupyter nbconvert $(inp) --to latex --template report --output tmp/$(addsuffix .tex,$(basename $(inp)));)
