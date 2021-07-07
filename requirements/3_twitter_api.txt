@@ -1,3 +1,5 @@
 stop-words
 twarc
 wordcloud
+pandas
+matplotlib
