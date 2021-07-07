@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Jupyter notebook intermediate files
+*.html
+
+# LaTeX intermediate files
+*.aux
+*.toc
+*.out
+
+tmp/
