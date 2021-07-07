@@ -14,3 +14,5 @@ python-workshop-2021-handout.pdf: $(input)
 serve-slides:
 	jupyter nbconvert $(NOTEBOOK) --to slides --post serve
 
+serve:
+	jupyter notebook --ip='*' --NotebookApp.token='' --NotebookApp.password='' --no-browser
