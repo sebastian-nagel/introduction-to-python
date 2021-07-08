@@ -1,5 +1,8 @@
-jq
-matplotlib
 pandas
+matplotlib
 requests
+jq
+folium
+stop-words
 twarc
+wordcloud
