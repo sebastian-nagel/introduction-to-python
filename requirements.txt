@@ -6,3 +6,5 @@ folium
 stop-words
 twarc
 wordcloud
+beautifulsoup4
+readabilipy
