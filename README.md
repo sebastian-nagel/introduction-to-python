@@ -2,9 +2,10 @@ Course Materials – Workshop “Introduction to Python”
 ====================================================
 
 This repository bundles course materials for a Python Programming
-Workshop organized by the Cluster of Excellence “The Politics of
-Inequality” at the University of Konstanz in cooperation with the
-Zeppelin University Friedrichshafen in summer 2021.
+Workshop organized by the Zeppelin University Friedrichshafen in
+cooperation with the Cluster of Excellence “The Politics of
+Inequality” at the University of Konstanz in summer 2021 and in a
+revised version in winter 2022.
 
 Addressed to scholars in social sciences (in a very broad definition),
 the workshop focuses on using Python in practice. The provided
@@ -31,8 +32,11 @@ the participants.
   - editors, IDEs
   - Jupyter notebooks, Anaconda
   - virtual environment, Docker
+  - Google Colaboratory
 
 - last-minute help desk setting up Python work environment
+
+Notebook: [warmup and setup](1_warmup_and_setup.ipynb)
 
 
 ## 2. Working with Structured Data
@@ -65,6 +69,8 @@ Notebook: [the Twitter API](3_twitter_api.ipynb)
 - browser automation
 - cleanse and export extracted data
 
+Notebook: [Web Scraping](4_web_scraping.ipynb)
+
 
 ## 5. Text Processing and Machine Learning
 
@@ -72,10 +78,10 @@ Notebook: [the Twitter API](3_twitter_api.ipynb)
 - n-grams, vectorization and word embeddings
 - train and evaluate a text classifier
 
-
+Notebook: [Text Processing and Machine Learning](5_nlp_ml.ipynb)
 
 
 # Licenses
 
-- [Apache 2.0](./LICENSE) for the code
+- [Apache 2.0](./LICENSE) for the Python code and documentation
 - for data shared in this repository, see the [listing of data sources and licenses](data/README.md)
