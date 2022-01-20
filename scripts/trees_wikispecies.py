@@ -39,6 +39,8 @@ for tree in top_trees.index.to_list():
     while True:
         if q in trees_wikispecies:
             print("Already done:", q)
+            if tree != q:
+                trees_wikispecies[tree] = trees_wikispecies[q]
             break
         print("Querying API for", q)
         query_params['titles'] = q.replace(' ', '_')
