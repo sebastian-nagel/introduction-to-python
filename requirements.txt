@@ -7,4 +7,11 @@ stop-words
 twarc
 wordcloud
 beautifulsoup4
+jusText
 readabilipy
+spacy
+nltk
+fasttext
+transformers
+tensorflow
+transformers[sentencepiece]
